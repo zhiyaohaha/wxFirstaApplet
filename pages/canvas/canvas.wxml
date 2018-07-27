@@ -1,0 +1,4 @@
+<view calss="canvas">
+  <text class='title-desktop' hidden="false">孛志尧</text>
+  <canvas canvas-id="spring-text" id="spring-text"></canvas>
+</view>
